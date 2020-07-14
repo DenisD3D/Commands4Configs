@@ -15,7 +15,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'ml.denisd3d'
-version = '1.15.2-1.0.0'
+version = '1.15.2-1.0.1'
 archivesBaseName = 'commands4configs'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
